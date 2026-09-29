@@ -84,7 +84,7 @@ Thus, a simple and professional profile page was successfully created on LinkedI
 ## CONCLUSION
 In conclusion, creating a LinkedIn profile is a simple but important step in building a professional online identity. By filling in accurate details across the Photo, Headline, About, Education, Experience, and Skills sections, students and faculty can present themselves professionally to recruiters, peers, and the wider academic and industry community.
 
-Profile URL: www.linkedin.com/in/kamaleshwaran-a-a225aa366
+Profile URL:https://www.linkedin.com/in/mohamed-subail-s-bbb2a32a3/
 
 A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
 
