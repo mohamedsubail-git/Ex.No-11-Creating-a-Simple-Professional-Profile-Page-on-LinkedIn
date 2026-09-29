@@ -73,7 +73,8 @@ The screen below shows a sample completed LinkedIn profile page, illustrating ho
 
 ## OUTPUT
 
-<img width="1446" height="1003" alt="image" src="https://github.com/user-attachments/assets/2ea6bbb4-748e-4e4d-98d5-fd4023e41800" />
+<img width="1750" height="950" alt="image" src="https://github.com/user-attachments/assets/f0411224-2b09-4362-b736-e590f33589f8" />
+
 Profile URL: https://www.linkedin.com/in/mohamed-subail-s-bbb2a32a3/
 
 A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
